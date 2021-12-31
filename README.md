@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edoardo-B-Leiva
 - 👀 I’m interested in music, frontend and backend
-- 🌱 I’m currently learning Javascript, C++, Node.js and expressjs
+- 🌱 I’m currently learning C, C++ and ASM x86_64
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me edoardo.borgia.leiva@outlook.com
 
