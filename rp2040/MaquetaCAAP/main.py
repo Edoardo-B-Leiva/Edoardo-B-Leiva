@@ -21,8 +21,7 @@ led5 = Pin(20, Pin.OUT) #Broken FootBall Pitch
 ##Buttons (Switches)
 btn1 = Pin(0, Pin.IN) #Springfield
 btn2 = Pin(1, Pin.IN) #Nuclear
-btn3 = Pin(2, Pin.IN)
-
+btn3 = Pin(2, Pin.IN) #FootBall Pitch
 ##Stop Button
 stopBtn = Pin(4, Pin.IN)
 
@@ -56,16 +55,17 @@ def main():
         print('ok')
     
 def Nuclear():
-     while i == True:
-        for duty in range(65025):
-            led2.duty_u16(duty)
-            sleep(0.0001)
-        for duty in range(65025, 0, -1):
-            led2.duty_u16(duty)
-            sleep(0.0001)
-        if btn3.value() == 1:
-            continue
-     print('Nuclear() stopped.')
+    if btn3.value() == 1:
+        while i == True:
+            for duty in range(65025):
+                led2.duty_u16(duty)
+                sleep(0.0001)
+            for duty in range(65025, 0, -1):
+                led2.duty_u16(duty)
+                sleep(0.0001)
+            if btn3.value() == 1:
+                continue
+                print('Nuclear() stopped.')
         
 def FootBallBrokenLight():
     while j == True:
