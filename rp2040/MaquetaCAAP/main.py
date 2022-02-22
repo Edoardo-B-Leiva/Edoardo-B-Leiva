@@ -64,8 +64,9 @@ def Nuclear():
                 led2.duty_u16(duty)
                 sleep(0.0001)
             if btn3.value() == 1:
-                continue
                 print('Nuclear() stopped.')
+                continue
+                
         
 def FootBallBrokenLight():
     while j == True:
