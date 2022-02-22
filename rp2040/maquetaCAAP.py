@@ -30,21 +30,41 @@ led2.freq(1000)
 #Code
 
 def main():
-    print('ok')
+    i = False
+    while True:
+        if btn1.value() == 1:
+            if i !== True:
+                i = True
+            else:
+                i = False
+        if i == True:
+            led1.on()
+            
+            led3.on()
+            led4.on()
+        else:
+            led1.off()
+            led3.off()
+            led4.off()
+            led5.off()
+        print('ok')
     
 def Nuclear():
-    while True:
+     while i == True:
         for duty in range(65025):
             led2.duty_u16(duty)
             sleep(0.0001)
         for duty in range(65025, 0, -1):
             led2.duty_u16(duty)
             sleep(0.0001)
+        led5.toggle()
+        sleep(rand())
+        led5.toggle()
 
-_thread.start_new_thread(Nuclear, ())
 
 #Script Starts HERE!
 print('Script Started...')
 statusLed.on() ## Indicates that the script is running without any problem.
+_thread.start_new_thread(Nuclear, ())
 main()
 #END
