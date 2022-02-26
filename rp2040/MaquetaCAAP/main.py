@@ -78,8 +78,9 @@ def FootBallBrokenLight():
 _thread.start_new_thread(Nuclear, ()) ##Starts the Nuclear() func into another thread
 
 #Script Start
-print('Script Started...')
-statusLed.on() ## Indicates that the script is running without any problem.
-main()
-print('Script Stopped!')
+if __name__ == '__main__':
+    print('Script Started...')
+    statusLed.on() ## Indicates that the script is running without any problem.
+    main()
+    print('Script Stopped!')
 #END
