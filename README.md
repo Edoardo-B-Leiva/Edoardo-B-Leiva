@@ -1,7 +1,7 @@
 # [Edoardo Borgia Leiva](edoardo-b-leiva.github.io)
 ![Edoardo Borgia Leiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Edoardo-B-Leiva&show_icons=true&theme=tokyonight)
-Hi! My name is Edoardo, I'm an Italian🇮🇹 male living in Spain🇪🇸.
 ## About me
+Hi! My name is Edoardo, I'm an Italian🇮🇹 male living in Spain🇪🇸.
 Currently studying Techical formation in IT systems and networks at [Florida Universitaria](https://www.floridauniversitaria.es/).
 Aspiring Embedded System Engineer.
 ### Academic Interests
