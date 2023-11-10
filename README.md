@@ -5,10 +5,14 @@
 ---
 Hi! My name is Edoardo, I'm an Italian🇮🇹 male living in Spain🇪🇸.
 Currently studying Techical formation in IT systems and networks at [Florida Universitaria](https://www.floridauniversitaria.es/).
+Aspiring Embedded System Engineer.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Edoardo Borgia Leiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Edoardo-B-Leiva&show_icons=true&theme=catppuccin_mocha)
 
-Aspiring Embedded System Engineer.
+
+
 ### Academic Interests
 - C/C++ programming
 - Assembly programming
