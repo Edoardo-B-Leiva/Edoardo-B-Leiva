@@ -3,7 +3,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/Devvolt?style=flat-square&logo=github&label=Devvolt%20stars&link=https%3A%2F%2Fgithub.com%2FDevvolt)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fdevvolt.dev&style=flat-square&label=https%3A%2F%2Fdevvolt.dev%2F&link=devvolt.dev)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fdevvolt.dev&style=flat-square&label=https%3A%2F%2Fdevvolt.dev%2F&link=https%3A%2F%2Fdevvolt.dev)
 ---
 ![Edoardo Borgia Leiva's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Edoardo+Borgia+Leiva%27s+Tech+Stack&align=center&lineCount=1&theme=catppuccin_mocha&width=800&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=markdown%2CMarkdown%2C808080%3Brust%2CRust%2Cb7410e%3Bcplusplus%2CC%2B%2B%2C7981ea%3Bpython%2CPython%2Cb4e70f%3Bhtml5%2CHTML5%2Cf64a1d%3Bcss3%2CCSS3%2C3a96c4%3B)
 ---
