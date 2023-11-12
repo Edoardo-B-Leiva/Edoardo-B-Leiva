@@ -16,6 +16,7 @@ Aspiring __Embedded System Engineer__.
 ### Cisco certifications & badges (click on badge to redirect to credly.com)
 [![Cisco OS Basics](https://images.credly.com/size/110x110/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png)](https://www.credly.com/badges/8e940719-2123-4dd0-9c43-712f32f891f2/public_url)
 [![Cisco Hardware Basics Badge](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/8e7c32ad-afa5-43b8-924d-edf653123b2c/public_url)
+[![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)
 ---
 ![Edoardo Borgia Leiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Edoardo-B-Leiva&show_icons=true&theme=catppuccin_mocha)
 
