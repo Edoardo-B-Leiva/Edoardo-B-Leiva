@@ -16,8 +16,6 @@ Aspiring __Embedded System Engineer__.
 [![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)
 ---
 ![Edoardo Borgia Leiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Edoardo-B-Leiva&show_icons=true&theme=catppuccin_mocha)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Academic Interests
 - C/C++ programming
