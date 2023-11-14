@@ -1,6 +1,5 @@
 # [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
 ![GitHub User's stars](https://img.shields.io/github/stars/Edoardo-B-Leiva?style=flat-square&logo=github&label=User%20stars&color=%23f6ff45)
-
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)
 ---
 ![Edoardo-B-Leiva's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Edoardo-B-Leiva%27s+Tech+Stack&lineCount=3&theme=catppuccin_mocha&width=800&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=Markdown%2CMarkdown%2C898989%3Bhtml5%2CHTML%2Ca83c2e%3BCSS3%2CCSS%2C2b9bea%3Bpython%2CPython+3%2Cc1ff1b%3Brust%2CRust%2C635909%3Bcplusplus%2CC%2B%2B%2C419ec5%3B&line2=Shell%2CBash%2Ca3a3a3%3BDocker%2CDocker%2C413bc7%3Bportainer%2CPortainer%2C2e7fc1%3Bdistrobox%2CDistrobox%2Cd8d5d5%3B&line3=Windows10%2CWindows%2C1370c7%3BLinux%2CLinux%2Ca6a6a6%3Bopensuse%2CTumbleweed%2C0f850d%3Bdebian%2CDebian%2Cd20b0b%3Barchlinux%2CArch+Linux%2C479ce2%3Bgentoo%2CGentoo%2C66aada%3B)
