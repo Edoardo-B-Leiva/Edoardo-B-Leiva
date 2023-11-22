@@ -15,9 +15,17 @@ Aspiring __Embedded System Engineer__.
 [![Cisco Hardware Basics Badge](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/8e7c32ad-afa5-43b8-924d-edf653123b2c/public_url)
 [![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)
 ---
+### Programming Languages I want to learn
+- C/C++
+- Rust
+- Go
+- Python3
+- Lua
+- ARM / ARM64 (aarch64) assembly 
+- RiscV assembly
+
 ### Academic Interests
-- C/C++ programming
-- Assembly programming
+- Programming
 - Operating systems
 - Embedded systems
 - Computer hardware
