@@ -42,4 +42,4 @@ Aspiring __Embedded System Engineer__.
 - PC Gaming and modding
 - Console Modding and Homebrew (not to be confused with game piracy)
 - Learning languages
-- Rock, Metal, Vocaloid music and OSTs
+- Rock, J-Rock, Metal, Daft Punk, Gorillaz, Vocaloid music and Videogame OSTs
