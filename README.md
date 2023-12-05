@@ -1,6 +1,6 @@
 # [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
 ![GitHub User's stars](https://img.shields.io/github/stars/Edoardo-B-Leiva?style=flat-square&logo=github&label=User%20stars&color=%23f6ff45)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)]
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)
 ---
 ![Edoardo-B-Leiva's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Edoardo-B-Leiva%27s+Tech+Stack&lineCount=3&theme=catppuccin_mocha&width=850&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=markdown%2Cmarkdown%2C8c8c8c%3Bcplusplus%2CC%2FC%2B%2B%2C2061ff%3Brust%2Crust%2C4b0d0d%3Bpython%2CPython+3%2Cbfdd24%3B&line2=shell%2CBash%2C909090%3Bdocker%2CDocker%2C233cab%3Bqemu%2CQEMU%2C6e6e6e%3Bvirtualbox%2CVirtualBox%2C0cbcee%3B&line3=gnu%2CGNU%2Cffffff%3Blinux%2CLinux%2Ca9a9a9%3Bopensuse%2CopenSUSE%2C00ff49%3Bdebian%2CDebian%2Cff1111%3Barchlinux%2CArch+Linux%2C3e8bca%3Bgentoo%2CGentoo%2Cad18d3%3Bwindows%2CWindows%2C3059d1%3B)
 ---
