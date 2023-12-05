@@ -18,6 +18,7 @@ Aspiring to be a __Embedded Systems Engineer__.
 ### Currently learning
 - C / C++
 - Shell / Bash scripting
+- Networking (Working towards getting either **CompTIA Networks+** or **Cisco CCNA / CCNP**)
 ### Programming Languages I want to learn
 - C/C++
 - Rust
