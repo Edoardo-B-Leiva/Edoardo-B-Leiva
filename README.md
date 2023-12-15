@@ -36,7 +36,7 @@ Aspiring to be a __Embedded Systems Engineer__.
 ### Languages
 - 🇮🇹 Italian - Native
 - 🇪🇸 Spanish - Native
-- 🇬🇧 English - A2 (Waiting for C1 Acles / CercleS Certification)
+- 🇬🇧 English - C1 Acles / CercleS
 - Valencian - Basic, enough to understand fluent daily conversation
 ### Interests
 - Retro gaming
