@@ -1,8 +1,8 @@
 # [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
+## About me
 ![GitHub User's stars](https://img.shields.io/github/stars/Edoardo-B-Leiva?style=flat-square&logo=github&label=User%20stars&color=%23f6ff45)
 ![GitHub followers](https://img.shields.io/github/followers/Edoardo-B-Leiva?label=Github%20Followers&style=flat-square&logo=github)   
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)
----
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)   
 ___Hi!___ My name is Edoardo, I'm an Italian cis-male currently living in Spain.   
 Currently studying ***Vocational Formation as Technical in IT systems and networks* (TSMR)** at [Florida Universitaria](https://www.floridauniversitaria.es/).    
 Aspiring __Embedded Systems Engineer__.
@@ -11,6 +11,16 @@ Aspiring __Embedded Systems Engineer__.
 ![Static Badge](https://img.shields.io/badge/Github-Github?style=flat-square&logo=Github&logoColor=%23FFFFFF&color=%230a0a0a)
 ![Static Badge](https://img.shields.io/badge/LeetCode-LeetCode?style=flat-square&logo=leetcode&logoColor=%23FFA116&color=%230a0a0a)
 ![Static Badge](https://img.shields.io/badge/CodeForces-CodeForces?style=flat-square&logo=codeforces&logoColor=%231F8ACB&color=%230a0a0a)
+## Languages
+- Italian - Native
+- Spanish - Native
+- English - C1 Acles / CercleS
+- Valencian - Beginner, enough to understand fluent daily conversation
+## Skills
+- Git
+- Github
+- Markdown
+- Bash
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
 #### NetAcad / SkillsForAll
@@ -24,11 +34,6 @@ Aspiring __Embedded Systems Engineer__.
 ### My flights
 ![My FlightRadar24](https://banners-my.flightradar24.com/Edoardo_B_Leiva.png)
 ![My FlightRadar24 Future](https://banners-my.flightradar24.com/Edoardo_B_Leiva-future.png)
-### Languages
-- Italian - Native
-- Spanish - Native
-- English - C1 Acles / CercleS
-- Valencian - Basic, enough to understand fluent daily conversation
 ### Currently learning
 #### Programming Languages
 - C++
