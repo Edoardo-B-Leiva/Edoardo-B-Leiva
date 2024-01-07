@@ -38,7 +38,10 @@ Aspiring __Embedded Systems Engineer__.
 #### Programming Languages
 - C++
 - Go
+- Rust
 #### Other
+- Data structures
+- Algorithms
 - BASH Scripting
 - Networking
 - Linux
