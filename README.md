@@ -36,9 +36,9 @@ Aspiring __Embedded Systems Engineer__.
 ![My FlightRadar24 Future](https://banners-my.flightradar24.com/Edoardo_B_Leiva-future.png)
 ### Currently learning
 #### Programming Languages
-- C++
-- Go
+- C
 - Rust
+- ARM Assembly
 #### Other
 - Data structures
 - Algorithms
@@ -53,11 +53,11 @@ Aspiring __Embedded Systems Engineer__.
 - Computer hardware
 - Networking
 #### Personal
-- Retro gaming
+- Retro games
 - Indie games
-- IBM and first Lenovo Thinkpads (Owning a Thinkpad X230 with openSUSE Tumbleweed running on it)
+- Thinkpads (Owning a Thinkpad X230 with openSUSE Tumbleweed running on it)
 - Linux
 - Hardware hoarding
 - PC Gaming and modding
 - Console Modding and Homebrew software (**NOT TO BE CONFUSED WITH PIRACY**)
-- Learning languages (Thinking about learning *German, Japanese, Korean*, and improve further my English)
+- Learning new languages
