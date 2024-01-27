@@ -2,7 +2,9 @@
 ## About me
 ![GitHub User's stars](https://img.shields.io/github/stars/Edoardo-B-Leiva?style=flat-square&logo=github&label=User%20stars&color=%23f6ff45)
 ![GitHub followers](https://img.shields.io/github/followers/Edoardo-B-Leiva?label=Github%20Followers&style=flat-square&logo=github)   
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)   
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)
+[![GPG KEY](https://img.shields.io/badge/My_GPG_Key-8A2BE2?style=flat-square
+)](https://raw.githubusercontent.com/Edoardo-B-Leiva/Edoardo-B-Leiva/main/Edoardo%20Borgia%20Leiva_0x82CD0034_public.asc)   
 ___Hi!___ My name is Edoardo, I'm an Italian cis-male currently living in Spain.   
 Currently studying ***Vocational Formation as Technical in IT systems and networks* (TSMR)** at [Florida Universitaria](https://www.floridauniversitaria.es/).    
 Aspiring __Embedded Systems Engineer__.
