@@ -14,15 +14,20 @@ Aspiring __Embedded Systems Engineer__.
 [![Static Badge](https://img.shields.io/badge/LeetCode-LeetCode?style=flat-square&logo=leetcode&logoColor=%23FFA116&color=%230a0a0a)](https://leetcode.com/Edoardo-B-Leiva/)
 [![Static Badge](https://img.shields.io/badge/CodeForces-CodeForces?style=flat-square&logo=codeforces&logoColor=%231F8ACB&color=%230a0a0a)](https://codeforces.com/profile/Generic_Boi69)
 ## Languages
-- Italian - Native
-- Spanish - Native
-- English - C1 Acles / CercleS
-- Valencian - Beginner, enough to understand fluent daily conversation
+|Language|Skill level|Certificate|
+|--------|-----------|-----------|
+|Italian |Native      |None      |
+|Spanish|Native / Bilingual|None |
+|English|Professional|C1 Acles/CercleS|
+|Valencian|Intermediate|None|
 ## Skills
-- Git
-- Github
+- [Git](https://git-scm.com/)
+- [Github](https://github.com)
 - Markdown
-- Bash
+- BASH
+- BASH Scripting
+- SSH
+- GPG
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
 #### NetAcad / SkillsForAll
@@ -39,8 +44,8 @@ Aspiring __Embedded Systems Engineer__.
 ### Currently learning
 #### Programming Languages
 - C
-- Rust
-- ARM Assembly
+- [Rust](https://rust-lang.org/)
+- [ARM Assembly](https://www.arm.com/)
 #### Other
 - Data structures
 - Algorithms
@@ -55,11 +60,18 @@ Aspiring __Embedded Systems Engineer__.
 - Computer hardware
 - Networking
 #### Personal
-- Retro games
-- Indie games
+A bit of everything but of all these stick out to me:
+- Learning *anything new*
+- Music (all kinds and genres)
+- Guitars
+- Learning new languages
 - Thinkpads (Owning a Thinkpad X230 with openSUSE Tumbleweed running on it)
 - Linux
+- Open Source software and development
+- Self-hosting services
 - Hardware hoarding
+- Custom mechanical keyboards
+- Retro videogames
+- Indie videogames
 - PC Gaming and modding
-- Console Modding and Homebrew software (**NOT TO BE CONFUSED WITH PIRACY**)
-- Learning new languages
+- Game console modding and Homebrew software (**NOT TO BE CONFUSED WITH PIRACY**)
