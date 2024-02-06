@@ -14,7 +14,7 @@ Aspiring __Embedded Systems Engineer__.
 [![Static Badge](https://img.shields.io/badge/LeetCode-LeetCode?style=flat-square&logo=leetcode&logoColor=%23FFA116&color=%230a0a0a)](https://leetcode.com/Edoardo-B-Leiva/)
 [![Static Badge](https://img.shields.io/badge/CodeForces-CodeForces?style=flat-square&logo=codeforces&logoColor=%231F8ACB&color=%230a0a0a)](https://codeforces.com/profile/Generic_Boi69)   
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,linux,neovim,git,github,docker,bash,md&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,linux,neovim,git,github,docker,bash,md&perline=5&theme=light)](https://skillicons.dev)
 ## Languages
 |Language|Skill level|Certificate|
 |--------|-----------|-----------|
