@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Edoardo-B-Leiva?style=flat-square&logo=github&label=User%20stars&color=%23f6ff45)
 ![GitHub followers](https://img.shields.io/github/followers/Edoardo-B-Leiva?label=Github%20Followers&style=flat-square&logo=github)   
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)
-[![GPG KEY](https://img.shields.io/badge/My_GPG_Key-8A2BE2?style=flat-square
+[![GPG Public Key](https://img.shields.io/badge/My_GPG_public_key-8A2BE2?style=flat-square
 )](https://raw.githubusercontent.com/Edoardo-B-Leiva/Edoardo-B-Leiva/main/Edoardo%20Borgia%20Leiva_0x82CD0034_public.asc)   
 ___Hi!___ My name is Edoardo, I'm an Italian cis-male currently living in Spain.   
 Currently studying ***Vocational Formation as Technical in IT systems and networks* (TSMR)** at [Florida Universitaria](https://www.floridauniversitaria.es/).    
@@ -12,7 +12,9 @@ Aspiring __Embedded Systems Engineer__.
 [![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%230A66C2&color=%230a0a0a)](https://www.linkedin.com/in/edoardo-b-leiva/)
 [![Static Badge](https://img.shields.io/badge/Github-Github?style=flat-square&logo=Github&logoColor=%23FFFFFF&color=%230a0a0a)](https://github.com/Edoardo-B-Leiva)
 [![Static Badge](https://img.shields.io/badge/LeetCode-LeetCode?style=flat-square&logo=leetcode&logoColor=%23FFA116&color=%230a0a0a)](https://leetcode.com/Edoardo-B-Leiva/)
-[![Static Badge](https://img.shields.io/badge/CodeForces-CodeForces?style=flat-square&logo=codeforces&logoColor=%231F8ACB&color=%230a0a0a)](https://codeforces.com/profile/Generic_Boi69)
+[![Static Badge](https://img.shields.io/badge/CodeForces-CodeForces?style=flat-square&logo=codeforces&logoColor=%231F8ACB&color=%230a0a0a)](https://codeforces.com/profile/Generic_Boi69)   
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,linux,neovim,git,github,docker,bash,md&perline=5)](https://skillicons.dev)
 ## Languages
 |Language|Skill level|Certificate|
 |--------|-----------|-----------|
@@ -24,10 +26,10 @@ Aspiring __Embedded Systems Engineer__.
 - [Git](https://git-scm.com/)
 - [Github](https://github.com)
 - Markdown
-- BASH
-- BASH Scripting
-- SSH
-- GPG
+- [BASH](https://www.gnu.org/software/bash/)
+- [BASH Scripting](https://www.gnu.org/software/bash/)
+- [SSH](https://www.openssh.com/)
+- [GPG](https://gnupg.org/)
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
 #### NetAcad / SkillsForAll
@@ -40,7 +42,6 @@ Aspiring __Embedded Systems Engineer__.
 ## More about me
 ### My flights
 ![My FlightRadar24](https://banners-my.flightradar24.com/Edoardo_B_Leiva.png)
-![My FlightRadar24 Future](https://banners-my.flightradar24.com/Edoardo_B_Leiva-future.png)
 ### Currently learning
 #### Programming Languages
 - C
