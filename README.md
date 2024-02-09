@@ -23,6 +23,7 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 |English|Professional|C1 Acles/CercleS|
 |Valencian|Intermediate|None|
 ## Skills
+- C++
 - [Git](https://git-scm.com/)
 - [Github](https://github.com)
 - Markdown
