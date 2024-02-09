@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fvollex.cc&style=flat-square&label=https%3A%2F%2Fvollex.cc%2F&link=https%3A%2F%2Fvollex.cc)](https://www.vollex.cc)
 [![GPG Public Key](https://img.shields.io/badge/My_GPG_public_key-8A2BE2?style=flat-square
 )](https://raw.githubusercontent.com/Edoardo-B-Leiva/Edoardo-B-Leiva/main/Edoardo%20Borgia%20Leiva_0x82CD0034_public.asc)   
-___Hi!___ My name is Edoardo, I'm an Italian cis-male currently living in Spain.   
+___Hi!___ My name is Edoardo, I'm an [Italian](https://www.openstreetmap.org/relation/365331) cis-male currently living in [Spain](https://www.openstreetmap.org/relation/1311341).   
 Currently studying ***Vocational Formation as Technical in IT systems and networks* (TSMR)** at [Florida Universitaria](https://www.floridauniversitaria.es/).    
 Aspiring __Embedded Systems Engineer__.
 
@@ -32,12 +32,12 @@ Aspiring __Embedded Systems Engineer__.
 - [GPG](https://gnupg.org/)
 
 ### Books I recommed to learn
-|Skill|Name|Editorial|Price|Link(s)|
-|-|-|-|-|-|
-|Data Structures|Data Structures the fun way|No Starch Press|~30$|[Amazon]()\|[NoStarchPress]()|
-|Rust|The Rust programming language 2nd Edition|No Starch Press|35$ \/ Free|[Rust-Lang](https://doc.rust-lang.org/book/)\|[Amazon](https://a.co/d/4YKsqF3)\|[NoStarchPress]()|
-|Git|Pro Git 2nd Edition|apress|27.87$ \/ Free|[git-scm](https://git-scm.com/book/en/v2)\|[Amazon](https://a.co/d/hYd2PPI)|
-|Linux Kernel|Linux Device Drivers 3rd Edition|O'Reilly|30$ \/ Free|[wln.net](https://lwn.net/Kernel/LDD3/)\|[Amazon](https://a.co/d/3YvpV8l)|
+|Skill|Name|Authors|Editorial|Price|Link(s)|
+|-|-|-|-|-|-|
+|Data Structures|Data Structures the fun way|Jeremy Kubica|[No Starch Press](https://nostarch.com/)|~30$|[Amazon](https://nostarch.com/data-structures-fun-way)\|[NoStarchPress](https://nostarch.com/data-structures-fun-way)|
+|[Rust](https://rust-lang.org)|The Rust programming language 2nd Edition|Steve Klabnik, Carol Nichols|[No Starch Press](https://nostarch.com/)|35$ \/ Free|[Rust-Lang](https://doc.rust-lang.org/book/)\|[Amazon](https://a.co/d/4YKsqF3)\|[NoStarchPress](https://nostarch.com/rust-programming-language-2nd-edition)|
+|[Git](https://git-scm.com/)|Pro Git 2nd Edition|Scott Chacon, Ben Straub|[apress](https://www.apress.com)|27.87$ \/ Free|[git-scm](https://git-scm.com/book/en/v2)\|[Amazon](https://a.co/d/hYd2PPI)|
+|[Linux Kernel](https://kernel.org/)|Linux Device Drivers 3rd Edition|Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman|[O'Reilly](https://www.oreilly.com/)|30$ \/ Free|[wln.net](https://lwn.net/Kernel/LDD3/)\|[Amazon](https://a.co/d/3YvpV8l)|
 
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
@@ -45,45 +45,26 @@ Aspiring __Embedded Systems Engineer__.
 [![Cisco OS Basics](https://images.credly.com/size/110x110/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png)](https://www.credly.com/badges/8e940719-2123-4dd0-9c43-712f32f891f2/public_url)
 [![Cisco Hardware Basics Badge](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/8e7c32ad-afa5-43b8-924d-edf653123b2c/public_url)
 [![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)
-### SoloLearn
+
+### [SoloLearn](https://sololearn.com)
 [<img height="128px" src="https://api2.sololearn.com/v2/certificates/CC-4GYDMCC2/image/png">](https://www.sololearn.com/certificates/CC-4GYDMCC2)
+
 ### Language certifications
 #### English
 - C1 - CercleS / ACLES (Certificate document yet to be released)
+
 ## More about me
 ### My flights
-![My FlightRadar24](https://banners-my.flightradar24.com/Edoardo_B_Leiva.png)
+[![My FlightRadar24](https://banners-my.flightradar24.com/Edoardo_B_Leiva.png)](https://my.flightradar24.com/Edoardo_B_Leiva)
+
 ### Currently learning
 #### Programming Languages
 - C
 - [Rust](https://rust-lang.org/)
 - [ARM Assembly](https://www.arm.com/)
+
 #### Other
 - Data structures
 - Algorithms
-- BASH Scripting
 - Networking
 - Linux
-### Interests
-#### Academic
-- Programming
-- Operating systems
-- Embedded systems
-- Computer hardware
-- Networking
-#### Personal
-A bit of everything but of all these stick out to me:
-- Learning *anything new*
-- Music (all kinds and genres)
-- Guitars
-- Learning new languages
-- Thinkpads (Owning a Thinkpad X230 with openSUSE Tumbleweed running on it)
-- Linux
-- Open Source software and development
-- Self-hosting services
-- Hardware hoarding
-- Custom mechanical keyboards
-- Retro videogames
-- Indie videogames
-- PC Gaming and modding
-- Game console modding and Homebrew software (**NOT TO BE CONFUSED WITH PIRACY**)
