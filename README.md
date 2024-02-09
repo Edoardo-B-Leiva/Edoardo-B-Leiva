@@ -7,7 +7,7 @@
 )](https://raw.githubusercontent.com/Edoardo-B-Leiva/Edoardo-B-Leiva/main/Edoardo%20Borgia%20Leiva_0x82CD0034_public.asc)   
 ___Hi!___ My name is Edoardo, I'm an [Italian](https://www.openstreetmap.org/relation/365331) cis-male currently living in [Spain](https://www.openstreetmap.org/relation/1311341).   
 Currently studying ***Vocational Formation as Technical in IT systems and networks* (TSMR)** at [Florida Universitaria](https://www.floridauniversitaria.es/).    
-Aspiring __Embedded Systems Engineer__.
+Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Engineer__.
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%230A66C2&color=%230a0a0a)](https://www.linkedin.com/in/edoardo-b-leiva/)
 [![Static Badge](https://img.shields.io/badge/Github-Github?style=flat-square&logo=Github&logoColor=%23FFFFFF&color=%230a0a0a)](https://github.com/Edoardo-B-Leiva)
