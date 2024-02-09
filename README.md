@@ -31,7 +31,7 @@ Aspiring __Embedded Systems Engineer__.
 - [SSH](https://www.openssh.com/)
 - [GPG](https://gnupg.org/)
 
-### Books I recommed to read for learning
+### Books I recommend to read for learning
 |Skill|Name|Authors|Editorial|Price|Link(s)|
 |-|-|-|-|-|-|
 |Data Structures|Data Structures the fun way|Jeremy Kubica|[No Starch Press](https://nostarch.com/)|~30$|[Amazon](https://nostarch.com/data-structures-fun-way)\|[NoStarchPress](https://nostarch.com/data-structures-fun-way)|
