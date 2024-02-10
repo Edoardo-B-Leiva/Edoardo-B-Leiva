@@ -58,6 +58,3 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 |[Linux Kernel](https://kernel.org/)|Linux Device Drivers 3rd Edition|Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman|[O'Reilly](https://www.oreilly.com/)|30$ \/ Free|[wln.net](https://lwn.net/Kernel/LDD3/)\|[Amazon](https://a.co/d/3YvpV8l)|
 |Software Development|The Black Book of the Developer|[Rafael Gomez Blanes](https://www.rafablanes.com/)|[Rafael Gomez Blanes](https://www.rafablanes.com/)|22$|[Amazon](https://a.co/d/3ypHMiF)|
 |Software Development|The Pragmatic Programmer 2nd Edition|David Thomas, Andrew Hunt|Addison-Wesley Professional|50$|[Amazon](https://a.co/d/9LM969e)|
-
-### My flights
-[![My FlightRadar24](https://banners-my.flightradar24.com/Edoardo_B_Leiva.png)](https://my.flightradar24.com/Edoardo_B_Leiva)
