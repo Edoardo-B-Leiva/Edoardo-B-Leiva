@@ -15,6 +15,7 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 [![Static Badge](https://img.shields.io/badge/CodeForces-CodeForces?style=flat-square&logo=codeforces&logoColor=%231F8ACB&color=%230a0a0a)](https://codeforces.com/profile/Generic_Boi69)   
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,bash,md,linux,neovim,git,github,docker&perline=5&theme=light)](https://skillicons.dev)
+
 ## Languages
 |Language|Skill level|Certificate|
 |--------|-----------|-----------|
@@ -22,6 +23,7 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 |Spanish|Native / Bilingual|None |
 |English|Professional|C1 Acles/CercleS|
 |Valencian|Intermediate|None|
+
 ## Skills
 - C++
 - [Git](https://git-scm.com/)
@@ -59,15 +61,3 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 ## More about me
 ### My flights
 [![My FlightRadar24](https://banners-my.flightradar24.com/Edoardo_B_Leiva.png)](https://my.flightradar24.com/Edoardo_B_Leiva)
-
-### Currently learning
-#### Programming Languages
-- C
-- [Rust](https://rust-lang.org/)
-- [ARM Assembly](https://www.arm.com/)
-
-#### Other
-- Data structures
-- Algorithms
-- Networking
-- Linux
