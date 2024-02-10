@@ -34,16 +34,6 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 - [SSH](https://www.openssh.com/)
 - [GPG](https://gnupg.org/)
 
-### Books I recommend to read for learning
-|Skill|Name|Authors|Editorial|Price|Link(s)|
-|-|-|-|-|-|-|
-|Data Structures|Data Structures the fun way|Jeremy Kubica|[No Starch Press](https://nostarch.com/)|~30$|[Amazon](https://nostarch.com/data-structures-fun-way)\|[NoStarchPress](https://nostarch.com/data-structures-fun-way)|
-|[Rust](https://rust-lang.org)|The Rust programming language 2nd Edition|Steve Klabnik, Carol Nichols|[No Starch Press](https://nostarch.com/)|35$ \/ Free|[Rust-Lang](https://doc.rust-lang.org/book/)\|[Amazon](https://a.co/d/4YKsqF3)\|[NoStarchPress](https://nostarch.com/rust-programming-language-2nd-edition)|
-|[Git](https://git-scm.com/)|Pro Git 2nd Edition|Scott Chacon, Ben Straub|[apress](https://www.apress.com)|27.87$ \/ Free|[git-scm](https://git-scm.com/book/en/v2)\|[Amazon](https://a.co/d/hYd2PPI)|
-|[Linux Kernel](https://kernel.org/)|Linux Device Drivers 3rd Edition|Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman|[O'Reilly](https://www.oreilly.com/)|30$ \/ Free|[wln.net](https://lwn.net/Kernel/LDD3/)\|[Amazon](https://a.co/d/3YvpV8l)|
-|Software Development|The Black Book of the Developer|[Rafael Gomez Blanes](https://www.rafablanes.com/)|[Rafael Gomez Blanes](https://www.rafablanes.com/)|22$|[Amazon](https://a.co/d/3ypHMiF)|
-|Software Development|The Pragmatic Programmer 2nd Edition|David Thomas, Andrew Hunt|Addison-Wesley Professional|50$|[Amazon](https://a.co/d/9LM969e)|
-
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
 #### NetAcad / SkillsForAll
@@ -59,5 +49,15 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 - C1 - CercleS / ACLES (Certificate document yet to be released)
 
 ## More about me
+### Books I recommend to read for learning
+|Skill|Name|Authors|Editorial|Price|Link(s)|
+|-|-|-|-|-|-|
+|Data Structures|Data Structures the fun way|Jeremy Kubica|[No Starch Press](https://nostarch.com/)|~30$|[Amazon](https://nostarch.com/data-structures-fun-way)\|[NoStarchPress](https://nostarch.com/data-structures-fun-way)|
+|[Rust](https://rust-lang.org)|The Rust programming language 2nd Edition|Steve Klabnik, Carol Nichols|[No Starch Press](https://nostarch.com/)|35$ \/ Free|[Rust-Lang](https://doc.rust-lang.org/book/)\|[Amazon](https://a.co/d/4YKsqF3)\|[NoStarchPress](https://nostarch.com/rust-programming-language-2nd-edition)|
+|[Git](https://git-scm.com/)|Pro Git 2nd Edition|Scott Chacon, Ben Straub|[apress](https://www.apress.com)|27.87$ \/ Free|[git-scm](https://git-scm.com/book/en/v2)\|[Amazon](https://a.co/d/hYd2PPI)|
+|[Linux Kernel](https://kernel.org/)|Linux Device Drivers 3rd Edition|Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman|[O'Reilly](https://www.oreilly.com/)|30$ \/ Free|[wln.net](https://lwn.net/Kernel/LDD3/)\|[Amazon](https://a.co/d/3YvpV8l)|
+|Software Development|The Black Book of the Developer|[Rafael Gomez Blanes](https://www.rafablanes.com/)|[Rafael Gomez Blanes](https://www.rafablanes.com/)|22$|[Amazon](https://a.co/d/3ypHMiF)|
+|Software Development|The Pragmatic Programmer 2nd Edition|David Thomas, Andrew Hunt|Addison-Wesley Professional|50$|[Amazon](https://a.co/d/9LM969e)|
+
 ### My flights
 [![My FlightRadar24](https://banners-my.flightradar24.com/Edoardo_B_Leiva.png)](https://my.flightradar24.com/Edoardo_B_Leiva)
