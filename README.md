@@ -39,7 +39,7 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 |[Rust](https://rust-lang.org)|The Rust programming language 2nd Edition|Steve Klabnik, Carol Nichols|[No Starch Press](https://nostarch.com/)|35$ \/ Free|[Rust-Lang](https://doc.rust-lang.org/book/)\|[Amazon](https://a.co/d/4YKsqF3)\|[NoStarchPress](https://nostarch.com/rust-programming-language-2nd-edition)|
 |[Git](https://git-scm.com/)|Pro Git 2nd Edition|Scott Chacon, Ben Straub|[apress](https://www.apress.com)|27.87$ \/ Free|[git-scm](https://git-scm.com/book/en/v2)\|[Amazon](https://a.co/d/hYd2PPI)|
 |[Linux Kernel](https://kernel.org/)|Linux Device Drivers 3rd Edition|Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman|[O'Reilly](https://www.oreilly.com/)|30$ \/ Free|[wln.net](https://lwn.net/Kernel/LDD3/)\|[Amazon](https://a.co/d/3YvpV8l)|
-|Software Development|The Black Book of the Developer|Rafael Gomez Blanes|Rafael Gomez Blanes|22$|[Amazon](https://a.co/d/3ypHMiF)|
+|Software Development|The Black Book of the Developer|[Rafael Gomez Blanes](https://www.rafablanes.com/)|[Rafael Gomez Blanes](https://www.rafablanes.com/)|22$|[Amazon](https://a.co/d/3ypHMiF)|
 |Software Development|The Pragmatic Programmer 2nd Edition|David Thomas, Andrew Hunt|Addison-Wesley Professional|50$|[Amazon](https://a.co/d/9LM969e)|
 
 ## Certifications
