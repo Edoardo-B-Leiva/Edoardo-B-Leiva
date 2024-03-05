@@ -46,7 +46,7 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 
 ### Language certifications
 #### English
-- C1 - CercleS / ACLES (Certificate document yet to be released)
+- C1 - CercleS / ACLES
 
 ## More about me
 ### Books I recommend to read for learning
