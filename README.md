@@ -31,9 +31,9 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 - [SSH](https://www.openssh.com/)
 - [GPG](https://gnupg.org/)
 ### Learning
-- [GoLang](https://go.dev)
+- C
+- Rust
 - SQL (Structured Query Language)
-- [PostgreSQL](https://www.postgresql.org/)
 
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
