@@ -22,16 +22,18 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 
 ## Skills
 - C++
-- Python 3
+- [Python](https://python.org)
 - [Git](https://git-scm.com/)
 - [Github](https://github.com)
 - Markdown
+- [Linux](https://kernel.org/)
 - [BASH](https://www.gnu.org/software/bash/)
 - [SSH](https://www.openssh.com/)
 - [GPG](https://gnupg.org/)
 ### Learning
-- C
-- Rust
+- C/C++
+- [Go](https://go.dev/)
+- [Rust](https://rust-lang.org)
 - SQL (Structured Query Language)
 
 ## Certifications
