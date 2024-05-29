@@ -21,7 +21,6 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 |Valencian|Intermediate|None|
 
 ## Skills
-- C++
 - [Python](https://python.org)
 - [Git](https://git-scm.com/)
 - [Github](https://github.com)
@@ -30,18 +29,12 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 - [BASH](https://www.gnu.org/software/bash/)
 - [SSH](https://www.openssh.com/)
 - [GPG](https://gnupg.org/)
-### Learning
-- C/C++
-- [Go](https://go.dev/)
-- [Rust](https://rust-lang.org)
-- SQL (Structured Query Language)
 
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
 [![Cisco OS Basics](https://images.credly.com/size/110x110/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png)](https://www.credly.com/badges/8e940719-2123-4dd0-9c43-712f32f891f2/public_url)
 [![Cisco Hardware Basics Badge](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/8e7c32ad-afa5-43b8-924d-edf653123b2c/public_url)
 [![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)
-### [OpenEDG Python Institute](https://openedg.org/python-institute) (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
 [![Cisco & OpenEDG PI Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/9adfaa8d-f71d-4fe5-8665-ffc1ac0e3e1e/public_url)
 ### [SoloLearn](https://sololearn.com)
 [<img height="128px" src="https://api2.sololearn.com/v2/certificates/CC-4GYDMCC2/image/png">](https://www.sololearn.com/certificates/CC-4GYDMCC2)
