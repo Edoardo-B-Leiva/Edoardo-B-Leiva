@@ -6,9 +6,20 @@
 [![GPG Public Key](https://img.shields.io/badge/My_GPG_public_key-8A2BE2?style=flat-square
 )](https://raw.githubusercontent.com/Edoardo-B-Leiva/Edoardo-B-Leiva/main/Edoardo%20Borgia%20Leiva_0x82CD0034_public.asc)
 
+**Currently learning: *C++***
+
 ___Hi!___ My name is Edoardo, I'm an [Italian](https://www.openstreetmap.org/relation/365331) cis-male currently living in [Spain](https://www.openstreetmap.org/relation/1311341).   
 Currently studying ***Vocational Formation as Technical in IT systems and networks* (TSMR)** at [Florida Universitaria](https://www.floridauniversitaria.es/).    
-Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Engineer__
+Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Engineer__  
+
+## Skills
+- [Git](https://git-scm.com/)
+- [Github](https://github.com)
+- Markdown
+- [Linux](https://kernel.org/)
+- [BASH](https://www.gnu.org/software/bash/)
+- [SSH](https://www.openssh.com/)
+- [GPG](https://gnupg.org/)
 
 ## Languages
 |Language|Skill level|Certificate|
@@ -17,16 +28,6 @@ Aspiring __[Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system) Eng
 |Spanish|Native / Bilingual|None |
 |English|Professional|C1 Acles/CercleS|
 |Valencian|Intermediate|None|
-
-## Skills
-- [Python](https://python.org)
-- [Git](https://git-scm.com/)
-- [Github](https://github.com)
-- Markdown
-- [Linux](https://kernel.org/)
-- [BASH](https://www.gnu.org/software/bash/)
-- [SSH](https://www.openssh.com/)
-- [GPG](https://gnupg.org/)
 
 ## Certifications
 ### Cisco (via [Credly](https://www.credly.com/users/edoardo-borgia-leiva))
