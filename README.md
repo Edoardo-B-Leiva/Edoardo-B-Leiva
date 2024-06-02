@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Edoardo-B-Leiva?style=flat-square&logo=github&label=User%20stars&color=%23f6ff45)
 ![GitHub followers](https://img.shields.io/github/followers/Edoardo-B-Leiva?label=Github%20Followers&style=flat-square&logo=github)
 [![GPG Public Key](https://img.shields.io/badge/My_GPG_public_key-8A2BE2?style=flat-square
-)](https://raw.githubusercontent.com/Edoardo-B-Leiva/Edoardo-B-Leiva/main/Edoardo%20Borgia%20Leiva_0x82CD0034_public.asc)
+)](https://keys.openpgp.org/vks/v1/by-fingerprint/CD3FCD7FCFA4B055A3FD0CB70D9A947F91F1C4B7)
 
 **Currently learning: *C++***
 
