@@ -10,7 +10,7 @@
 
 **Currently learning: *C/C++***
 
-___Hi!___ My name is Edoardo, I'm an [Italian](https://www.openstreetmap.org/relation/365331) Cisgender man currently living in [Spain](https://www.openstreetmap.org/relation/1311341).   
+___Hi!___ My name is Edoardo, I'm an [Italian](https://www.openstreetmap.org/relation/365331) currently living in [Spain](https://www.openstreetmap.org/relation/1311341).   
 Just finished studying ***Vocational Formation as Technical in IT systems and networks* (TSMR)** at [Florida Universitaria](https://www.floridauniversitaria.es/).    
 Aspiring __Embedded Systems Engineer__.
 
