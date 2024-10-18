@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Edoardo-B-Leiva?label=Github%20Followers&style=flat-square&logo=github)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65606ba55145316d25657cc2?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/65606ba55145316d25657cc2)](https://roadmap.sh)
 
 **Currently learning: *Java (@ school) & LaTeX***
 
