@@ -20,7 +20,8 @@ ___Hi!___ My name is Edoardo...
 ### Skills I want to learn
 
 [![Skill I wanna learn](https://skillicons.dev/icons?i=c,cpp,cmake,rust,go,mysql,postgres,redis,regex,neovim&theme=light)](https://skillicons.dev)
-
+### Skills I'm currently learning
+[![Skill I'm currently learning](https://skillicons.dev/icons?i=java,mysql,go,postgres,cs,cpp&theme=light)](https://skillicons.dev)
 ## Certificates
 
 |Badge|Certificate Name|Issuer(s)|Issuing Date|
