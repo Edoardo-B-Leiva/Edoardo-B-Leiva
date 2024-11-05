@@ -25,6 +25,7 @@ ___Hi!___ My name is Edoardo...
 
 |Badge|Certificate Name|Issuer(s)|Issuing Date|
 |-----|------------------|------|------------|
+|[<img height="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/205px-C_Sharp_Logo_2023.svg.png">]()|Foundational C# with Microsoft|Microsoft, FreeCodeCamp|Nov 2024|
 |[<img height="110px" src="https://www.marconigorgonzola.edu.it/wp-content/uploads/2021/02/linuxciscondg.png">]()|NDG Linux Unhatched|Cisco NetAcad|Jul 2024|
 |[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-4GYDMCC2/image/png">](https://www.sololearn.com/certificates/CC-4GYDMCC2)|C++|Sololearn|Oct 2023|
 |[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-HUB2UXRG/image/png">](https://www.sololearn.com/certificates/CC-HUB2UXRG)|Introduction to Java|Sololearn|Oct 2024|
