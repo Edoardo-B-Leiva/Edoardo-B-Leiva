@@ -26,6 +26,7 @@ ___Hi!___ My name is Edoardo...
 
 |Badge|Certificate Name|Issuer(s)|Issuing Date|
 |-----|------------------|------|------------|
+|[<img height="110px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">](https://www.credly.com/badges/dbee24e4-0808-425e-962e-257be6f154d2/public_url)|Scrum Foundation Professional Certificate|Certiprof|Nov 2024|
 |[<img height="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/205px-C_Sharp_Logo_2023.svg.png">](https://www.freecodecamp.org/certification/fcc6082798f-ea0c-461a-8572-ad4df08189a0/foundational-c-sharp-with-microsoft)|Foundational C# with Microsoft|Microsoft, FreeCodeCamp|Nov 2024|
 |[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-4GYDMCC2/image/png">](https://www.sololearn.com/certificates/CC-4GYDMCC2)|C++|Sololearn|Oct 2023|
 |[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-HUB2UXRG/image/png">](https://www.sololearn.com/certificates/CC-HUB2UXRG)|Introduction to Java|Sololearn|Oct 2024|
