@@ -21,8 +21,8 @@ ___Hi!___ My name is Edoardo...
 
 [![Skill I wanna learn](https://skillicons.dev/icons?i=c,cpp,cmake,rust,go,mysql,postgres,redis,regex,neovim&theme=light)](https://skillicons.dev)
 ### Skills I'm currently learning
-[![Skill I'm currently learning](https://skillicons.dev/icons?i=java,mysql,go,postgres,cs,cpp,neovim&theme=light)](https://skillicons.dev)
-## Certificates
+[![Skill I'm currently learning](https://skillicons.dev/icons?i=java,mysql,rust,neovim&theme=light)](https://skillicons.dev)
+## [Certificates](https://github.com/Edoardo-B-Leiva/Edoardo-B-Leiva/blob/main/Certificates.md)
 
 |Badge|Certificate Name|Issuer(s)|Issuing Date|
 |-----|------------------|------|------------|
