@@ -2,41 +2,29 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Edoardo-B-Leiva?label=Github%20Followers&style=flat-square&logo=github)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65606ba55145316d25657cc2)](https://roadmap.sh)
-
-**Currently learning: *Java (@ school) & LaTeX***
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,github,git,c,cpp,cs,rust,python,markdown)](https://skillicons.dev)
 
 ___Hi!___ My name is Edoardo...
-- 18 years old
-- Born in Italy
-- Living in Spain
-- Studying ***Vocational Formation in MultiPlatform Applications Development* (DAM)** at [AulaCampus](https://aulacampus.com/).    
-- Aspiring __Embedded Systems Engineer__.
-
-## Skills
-
-[![Skills](https://skillicons.dev/icons?i=git,github,markdown,latex,linux,bash&theme=light)](https://skillicons.dev)
-
-### Skills I want to learn
-
-[![Skill I wanna learn](https://skillicons.dev/icons?i=c,cpp,cmake,rust,go,mysql,postgres,redis,regex,neovim&theme=light)](https://skillicons.dev)
-### Skills I'm currently learning
-[![Skill I'm currently learning](https://skillicons.dev/icons?i=java,mysql,rust,neovim&theme=light)](https://skillicons.dev)
+- Born in *Italy* in *2006*
+- Currently in **Valencia, Spain**
+- Studying ***Vocational Formation in MultiPlatform Applications Development* (DAM)** at [AulaCampus](https://aulacampus.com/)
+- Aspiring __Embedded Systems Engineer__
+- Interested in:
+  - ***Low level** programming*
+  - ***Systems & embedded development***
+### Learning at school
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,bootstrap,javascript,git,github,powershell)](https://skillicons.dev)
 ## [Certificates](https://github.com/Edoardo-B-Leiva/Edoardo-B-Leiva/blob/main/Certificates.md)
-
-|Badge|Certificate Name|Issuer(s)|Issuing Date|
-|-----|------------------|------|------------|
-|[<img height="110px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">](https://www.credly.com/badges/dbee24e4-0808-425e-962e-257be6f154d2/public_url)|Scrum Foundation Professional Certificate|Certiprof|Nov 2024|
+|Badge|Certificate Name|Issuer(s)|
+|-|-|-|
+|[<img height="110px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">](https://www.credly.com/badges/dbee24e4-0808-425e-962e-257be6f154d2/public_url)|Scrum Foundation Professional Certificate|Certiprof|
 |[<img height="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/205px-C_Sharp_Logo_2023.svg.png">](https://www.freecodecamp.org/certification/fcc6082798f-ea0c-461a-8572-ad4df08189a0/foundational-c-sharp-with-microsoft)|Foundational C# with Microsoft|Microsoft, FreeCodeCamp|Nov 2024|
-|[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-4GYDMCC2/image/png">](https://www.sololearn.com/certificates/CC-4GYDMCC2)|C++|Sololearn|Oct 2023|
-|[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-HUB2UXRG/image/png">](https://www.sololearn.com/certificates/CC-HUB2UXRG)|Introduction to Java|Sololearn|Oct 2024|
-|[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-UY6VPPHR/image/png">](https://www.sololearn.com/certificates/CC-UY6VPPHR)|Java Intermediate|Sololearn|Nov 2024|
-|[![Cisco & OpenEDG PI Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/9adfaa8d-f71d-4fe5-8665-ffc1ac0e3e1e/public_url)|Python Essentials 1|OpenEDG, Cisco Skills4All|Mar 2024|
-|[<img height="110px" src="https://images.credly.com/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png">](https://www.credly.com/badges/d3a86c15-cc75-498a-9fa6-d41539b45e6a)|NDG Linux Unhatched|Cisco NetAcad|Jul 2024|
-|[![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)|Cisco Networking Basics|Cisco Skills4All|Nov 2023|
-|[![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/a638ab23-0755-42a7-a53c-14d5c9f45c81/public_url)|Cisco Introduction to Cybersecurity|Cisco Skills4All|Oct 2024|
-|[![Cisco Hardware Basics Badge](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/8e7c32ad-afa5-43b8-924d-edf653123b2c/public_url)|Cisco Hardware Basics|Cisco Skills4All|Nov 2023|
-|[![Cisco OS Basics](https://images.credly.com/size/110x110/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png)](https://www.credly.com/badges/8e940719-2123-4dd0-9c43-712f32f891f2/public_url)|Cisco Operating Systems Basics|Cisco Skills4All|Nov 2023|
+|[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-4GYDMCC2/image/png">](https://www.sololearn.com/certificates/CC-4GYDMCC2)|C++|Sololearn|
+|[<img height="110px" src="https://api2.sololearn.com/v2/certificates/CC-UY6VPPHR/image/png">](https://www.sololearn.com/certificates/CC-UY6VPPHR)|Java Intermediate|Sololearn|
+|[![Cisco & OpenEDG PI Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/9adfaa8d-f71d-4fe5-8665-ffc1ac0e3e1e/public_url)|Python Essentials 1|OpenEDG, Cisco Skills4All|
+|[<img height="110px" src="https://images.credly.com/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png">](https://www.credly.com/badges/d3a86c15-cc75-498a-9fa6-d41539b45e6a)|NDG Linux Unhatched|Cisco NetAcad|
+|[![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)|Cisco Networking Basics|Cisco Skills4All|
+|[![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/a638ab23-0755-42a7-a53c-14d5c9f45c81/public_url)|Cisco Introduction to Cybersecurity|Cisco Skills4All|
 
 ### Language certificates
 
