@@ -3,7 +3,7 @@ Full list of my certificates
 - [My LinkedIn profile](https://www.linkedin.com/in/edoardo-b-leiva/)
 - [My Credly profile](https://www.credly.com/users/edoardo-borgia-leiva)
 - [My SoloLearn profile](https://www.sololearn.com/es/profile/18061289)
-
+- [My LFX profile](https://openprofile.dev/profile/edoardobleiva)
 ## Certiprof
 |Badge|Name|Issuing date|Expiring date|
 |-----|----|------------|-------------|
@@ -17,6 +17,10 @@ Full list of my certificates
 |[![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/a638ab23-0755-42a7-a53c-14d5c9f45c81/public_url)|Cisco Introduction to Cybersecurity|Oct 2024|
 |[![Cisco Hardware Basics Badge](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/8e7c32ad-afa5-43b8-924d-edf653123b2c/public_url)|Cisco Hardware Basics|Nov 2023|
 |[![Cisco OS Basics](https://images.credly.com/size/110x110/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png)](https://www.credly.com/badges/8e940719-2123-4dd0-9c43-712f32f891f2/public_url)|Cisco Operating Systems Basics|Nov 2023|
+## The Linux Foundation
+|Badge|Name|Issuing Date|
+|-|-|-|
+|[<img height="110px" src="https://images.credly.com/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob">](https://www.credly.com/badges/28dd4ae1-4b2c-4f7b-a8a6-1d5e943969ff/public_url)|LFEL1002: Getting Started with Rust|Dec 2024|
 ## freeCodeCamp
 |Badge|Name|Issuing Date|
 |-----|----|------------|
