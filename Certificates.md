@@ -4,11 +4,19 @@ Full list of my certificates
 - [My Credly profile](https://www.credly.com/users/edoardo-borgia-leiva)
 - [My SoloLearn profile](https://www.sololearn.com/es/profile/18061289)
 - [My LFX profile](https://openprofile.dev/profile/edoardobleiva)
+
+List of certificate issuers
+- [Certifprof](Certificates.md#certiprof)
+- [Cisco NetAcademy](Certificates.md#cisco-netacademy)
+- [The Linux Foundation](Certificates.md#the-linux-foundation)
+- [freeCodeCamp](Certificates.md#freecodecamp)
+- [SoloLearn](Certificates.md#sololearn)
+
 ## Certiprof
 |Badge|Name|Issuing date|Expiring date|
 |-----|----|------------|-------------|
 |[<img height="110px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">](https://www.credly.com/badges/dbee24e4-0808-425e-962e-257be6f154d2/public_url)|Scrum Foundation Professional Certificate|Nov 2024|Nov 2027|
-## Cisco NetAcad
+## Cisco NetAcademy
 |Badge|Name|Issuing Date|
 |-----|----|------------|
 |[![Cisco & OpenEDG PI Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/9adfaa8d-f71d-4fe5-8665-ffc1ac0e3e1e/public_url)|Python Essentials 1|Mar 2024|
@@ -20,6 +28,7 @@ Full list of my certificates
 ## The Linux Foundation
 |Badge|Name|Issuing Date|
 |-|-|-|
+|[<img height="110px" src="https://images.credly.com/images/fe724d20-7a05-417e-b10a-29e458a3fc04/blob">](https://www.credly.com/badges/d403a6d7-070c-4688-bf8c-8ecedf02344f/public_url)|LFD110: Introduction to RISC-V|Dec 2024|
 |[<img height="110px" src="https://images.credly.com/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob">](https://www.credly.com/badges/28dd4ae1-4b2c-4f7b-a8a6-1d5e943969ff/public_url)|LFEL1002: Getting Started with Rust|Dec 2024|
 ## freeCodeCamp
 |Badge|Name|Issuing Date|
