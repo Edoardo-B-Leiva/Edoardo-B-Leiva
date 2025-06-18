@@ -7,12 +7,11 @@
 ___Hi!___ My name is Edoardo...
 - Born in *Italy* in *2006*
 - Currently in **Valencia, Spain**
-- Studying ***Vocational Formation in MultiPlatform Applications Development* (DAM)** at [AulaCampus](https://aulacampus.com/)
+- Studying **Vocational Formation in MultiPlatform Applications Development (DAM)** (2nd year) at [AulaCampus](https://aulacampus.com/)
 - Aspiring __Embedded Systems Engineer__
 - Interested in:
-  - ***Low level** programming*
-  - ***Systems & embedded development***
-- Currently working on: **[godo-launcher](https://github.com/Edoardo-B-Leiva/godo-launcher) (devel branch)**
+  - Low level programming
+  - Systems & embedded development
 
 ### Learning at school
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,bootstrap,javascript,git,github,powershell)](https://skillicons.dev)
