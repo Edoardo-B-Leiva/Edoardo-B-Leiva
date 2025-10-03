@@ -2,6 +2,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/a-mayb3?label=Github%20Followers&style=flat-square&logo=github)
 
+![](https://media.tenor.com/oAm01s-7Q2MAAAAi/pikmin-blue-pikmin.gif)
+![](https://media.tenor.com/oAm01s-7Q2MAAAAi/pikmin-blue-pikmin.gif)
+![](https://media.tenor.com/oAm01s-7Q2MAAAAi/pikmin-blue-pikmin.gif)
+![](https://media.tenor.com/oAm01s-7Q2MAAAAi/pikmin-blue-pikmin.gif)
+
 - Studying **Multi-platform Development (DAM)** (2nd year) at [AulaCampus](https://aulacampus.com/)
 - Aspiring __Embedded Systems Engineer__
 - Interested in:
