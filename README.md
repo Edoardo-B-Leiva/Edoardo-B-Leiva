@@ -4,7 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,github,git,c,cpp,cs,rust,python,markdown)](https://skillicons.dev)
 
-___Hi!___ My name is Edoardo...
 - Born in *Italy* in *2006*
 - Currently in **Valencia, Spain**
 - Studying **Vocational Formation in MultiPlatform Applications Development (DAM)** (2nd year) at [AulaCampus](https://aulacampus.com/)
