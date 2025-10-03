@@ -2,9 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/a-mayb3?label=Github%20Followers&style=flat-square&logo=github)
 
-- Born in *Italy* in *2006*
-- Currently in **Valencia, Spain**
-- Studying **Vocational Formation in MultiPlatform Applications Development (DAM)** (2nd year) at [AulaCampus](https://aulacampus.com/)
+- Studying **Multi-platform Development (DAM)** (2nd year) at [AulaCampus](https://aulacampus.com/)
 - Aspiring __Embedded Systems Engineer__
 - Interested in:
   - Low level programming
