@@ -1,6 +1,8 @@
 # [Edoardo Borgia Leiva](https://github.com/Edoardo-B-Leiva) [![Static Badge](https://img.shields.io/badge/Github-Github?style=flat-square&logo=Github&logoColor=%23FFFFFF&color=%230a0a0a)](https://github.com/Edoardo-B-Leiva) [![Static Badge](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%230A66C2&color=%230a0a0a)](https://www.linkedin.com/in/edoardo-b-leiva/) [![Static Badge](https://img.shields.io/badge/credly-0a0a0a?style=flat-square&logo=credly&labelColor=230a0a0a)](https://www.credly.com/users/edoardo-borgia-leiva) [![Static Badge](https://img.shields.io/badge/LeetCode-LeetCode?style=flat-square&logo=leetcode&logoColor=%23FFA116&color=%230a0a0a)](https://leetcode.com/Edoardo-B-Leiva/) [![Static Badge](https://img.shields.io/badge/CodeForces-CodeForces?style=flat-square&logo=codeforces&logoColor=%231F8ACB&color=%230a0a0a)](https://codeforces.com/profile/Generic_Boi69) 
 
-![GitHub followers](https://img.shields.io/github/followers/a-mayb3?label=Github%20Followers&style=flat-square&logo=github)
+[![GitHub followers](https://img.shields.io/github/followers/a-mayb3?label=Github%20Followers&style=flat-square&logo=github)](https://github.com/a-mayb3?tab=followers)
+[![Public GPG keys](https://img.shields.io/badge/My%20GPG%20public%20key-My%20GPG%20public%20key?style=flat-square&logo=gnu%20privacy%20guard&logoColor=white&labelColor=rebeccapurple&color=rebeccapurple&link=https%3A%2F%2Fa-mayb3.github.io%2Fposts%2Fmy-gpg-key)](https://a-mayb3.github.io/posts/my-gpg-key)
+
 
 ![](https://media.tenor.com/oAm01s-7Q2MAAAAi/pikmin-blue-pikmin.gif)
 ![](https://media.tenor.com/oAm01s-7Q2MAAAAi/pikmin-blue-pikmin.gif)
