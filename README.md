@@ -2,8 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/a-mayb3?label=Github%20Followers&style=flat-square&logo=github)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,github,git,c,cpp,cs,rust,python,markdown)](https://skillicons.dev)
-
 - Born in *Italy* in *2006*
 - Currently in **Valencia, Spain**
 - Studying **Vocational Formation in MultiPlatform Applications Development (DAM)** (2nd year) at [AulaCampus](https://aulacampus.com/)
@@ -12,8 +10,6 @@
   - Low level programming
   - Systems & embedded development
 
-### Learning at school
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,bootstrap,javascript,git,github,powershell)](https://skillicons.dev)
 ## [Certificates](https://github.com/Edoardo-B-Leiva/Edoardo-B-Leiva/blob/main/Certificates.md)
 |Badge|Certificate Name|Issuer(s)|
 |-|-|-|
